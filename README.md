@@ -1,2 +1,4 @@
 # hello-world
-Hello World Repository1
+Hello World Repository
+
+This is my first exercise with githup1.
